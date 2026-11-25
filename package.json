@@ -1,0 +1,1 @@
+{"description":"Worst Monday One-Liners — make.fun bounty entry: one funny line about an AI agent's worst Monday.","engines":{"node":">=22.18"},"license":"MIT","name":"worst-monday-one-liners","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
